@@ -53,7 +53,7 @@ body {
     text-align: center;
 }
 
-.card-content h2 {
+.card-content h1 {
     color: var(--slate-900);
     font-size: 22px;
     font-weight: 700;
