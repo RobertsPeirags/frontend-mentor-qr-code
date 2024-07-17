@@ -5,8 +5,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![](./screenshot.png)
 
 ### Links
-- Solution URL: [Github](https://your-solution-url.com)
-- Live Site URL: [Github Pages](https://your-live-site-url.com)
+- Solution URL: [Github Repository](https://github.com/RobertsPeirags/frontend-mentor-qr-code/)
+- Live Site URL: [Github Pages](https://robertspeirags.github.io/frontend-mentor-qr-code/dist/index.html)
 
 ## Author
 - Github - [@RobertsPeirags](https://github.com/RobertsPeirags)
